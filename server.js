@@ -161,7 +161,7 @@ app.delete("/api/doc/:collection/:doc", async (req, res) => {
     res.status(500).send({ msg: error });
   }
 });
-
-app.listen(3000, () => {
-  console.log("running on port 3000");
+const PORT = process.env.PORT;
+app.listen(PORT, () => {
+  console.log(`running on port ${PORT}`);
 });
