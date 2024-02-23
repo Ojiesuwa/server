@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Immerse yourself in your favorite tunes with our Wireless Bluetooth Headphones. These high-quality headphones feature advanced noise-cancelling technology, ensuring crystal-clear sound even in noisy environments. With a sleek design and comfortable fit, these headphones are perfect for long listening sessions. Stay connected wirelessly with Bluetooth 5.0 technology and enjoy up to 20 hours of battery life on a single charge. Adjustable headband and soft ear cushions provide a customizable and comfortable fit for any user. Whether you're at home, in the office, or on the go, our Wireless Bluetooth Headphones deliver premium audio performance wherever you are.",
+    "brand": "SoundBeats",
+    "quantity": 100,
+    "costPrice": 35.99,
+    "coverImage": "http://localhost:3000/upload/wirelessheadphones.jpeg",
+    "sellingPrice": 49.99,
+    "discount": 15,
+    "specifications": [
+      { "title": "Bluetooth Version", "value": "5.0" },
+      { "title": "Battery Life", "value": "Up to 20 hours" },
+      { "title": "Adjustable Headband", "value": "Yes" }
+    ],
+    "id": "KurHADwyHCplUZN"
+  },
+  {
+    "name": "Smartphone Stand and Charger",
+    "description": "Enhance your smartphone experience with our Smartphone Stand and Charger. This versatile accessory features an adjustable stand that securely holds your device at the perfect viewing angle, whether you're watching videos, video calling, or browsing the web. The built-in wireless charging capabilities keep your phone powered up without the hassle of cables. Compatible with Qi-enabled devices, our stand provides fast and efficient charging. Its sleek and durable design complements any workspace or bedside table. Keep your device within reach and fully charged with our Smartphone Stand and Charger.",
+    "brand": "TechMaster",
+    "quantity": 150,
+    "costPrice": 20.5,
+    "coverImage": "http://localhost:3000/upload/smartphonestand.jpeg",
+    "sellingPrice": 29.99,
+    "discount": 10,
+    "specifications": [
+      { "title": "Wireless Charging", "value": "Yes" },
+      { "title": "Adjustable Angles", "value": "Yes" },
+      { "title": "Material", "value": "Aluminum" }
+    ],
+    "id": "XkjrDkoI0NST5jR"
+  },
+  {
+    "name": "Portable External Hard Drive",
+    "description": "Safeguard your important data with our Portable External Hard Drive. This high-speed external storage solution offers ample space for storing and backing up your files, photos, videos, and more. With its USB 3.0 compatibility, you can transfer data quickly and efficiently. The shock-resistant design protects your data from accidental drops and bumps, ensuring reliability and durability. Whether you're a student, professional, or home user, our Portable External Hard Drive provides peace of mind and convenient storage wherever you go.",
+    "brand": "DataVault",
+    "quantity": 80,
+    "costPrice": 55,
+    "coverImage": "http://localhost:3000/upload/harddrive.jpeg",
+    "sellingPrice": 69.99,
+    "discount": 20,
+    "specifications": [
+      { "title": "Storage Capacity", "value": "1TB" },
+      { "title": "USB Compatibility", "value": "USB 3.0" },
+      { "title": "Shock Resistance", "value": "Yes" }
+    ],
+    "id": "eumAbgjgvCEOvQQ"
+  },
+  {
+    "name": "Coffee Maker Machine",
+    "description": "Start your day off right with our Coffee Maker Machine. This automatic coffee maker brews delicious coffee with ease, perfect for home or office use. Program your preferred settings for a customized brewing experience and wake up to the aroma of freshly brewed coffee every morning. With its 10-cup capacity, you can brew coffee for the whole family or team. The built-in grinder ensures fresh coffee grounds for every brew, while the programmable timer lets you set it and forget it. Whether you prefer bold espresso or smooth lattes, our Coffee Maker Machine delivers barista-quality coffee at the touch of a button.",
+    "brand": "BrewMaster",
+    "quantity": 120,
+    "costPrice": 45.75,
+    "coverImage": "http://localhost:3000/upload/cofeemaker.jpeg",
+    "sellingPrice": 59.99,
+    "discount": 12,
+    "specifications": [
+      { "title": "Capacity", "value": "10 cups" },
+      { "title": "Programmable Timer", "value": "Yes" },
+      { "title": "Built-in Grinder", "value": "Yes" }
+    ],
+    "id": "tkf4ovp1m1T4SXm"
+  },
+  {
+    "name": "Professional DSLR Camera",
+    "description": "Capture stunning photos and videos with our Professional DSLR Camera. Equipped with advanced imaging technology and high-resolution sensors, this camera delivers exceptional clarity and detail in every shot. Its ergonomic design and intuitive controls make it easy to use for both amateur and professional photographers. With versatile shooting modes and adjustable settings, you can unleash your creativity and capture breathtaking moments with ease. Whether you're shooting landscapes, portraits, or action shots, our Professional DSLR Camera ensures professional-quality results every time.",
+    "brand": "CapturePro",
+    "quantity": 50,
+    "costPrice": 699.99,
+    "coverImage": "http://localhost:3000/upload/dslrcamera.jpeg",
+    "sellingPrice": 899.99,
+    "discount": 10,
+    "specifications": [
+      { "title": "Sensor Resolution", "value": "24MP" },
+      { "title": "Video Resolution", "value": "4K" },
+      { "title": "Interchangeable Lenses", "value": "Yes" }
+    ],
+    "id": "2l5lCXPzCfA4Zsv"
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "description": "Dominate the battlefield with our Wireless Gaming Mouse. Designed for gamers by gamers, this mouse delivers precision, speed, and comfort for long gaming sessions. With customizable buttons and adjustable DPI settings, you can tailor your gaming experience to suit your play style. Its ergonomic design reduces fatigue and strain, allowing you to stay focused and perform at your best. Featuring wireless connectivity and long battery life, our Gaming Mouse offers freedom of movement and uninterrupted gameplay. Whether you're a casual gamer or a competitive pro, our Wireless Gaming Mouse gives you the edge you need to win.",
+    "brand": "GameMaster",
+    "quantity": 100,
+    "costPrice": 49.99,
+    "coverImage": "http://localhost:3000/upload/wirelessgamingmouse.jpeg",
+    "sellingPrice": 69.99,
+    "discount": 15,
+    "specifications": [
+      { "title": "Wireless Connectivity", "value": "Yes" },
+      { "title": "Customizable Buttons", "value": "Yes" },
+      { "title": "Adjustable DPI", "value": "Yes" }
+    ],
+    "id": "05tjNPWoLOvNX7Y"
+  },
+  {
+    "name": "Fitness Tracker Watch",
+    "description": "Achieve your fitness goals with our Fitness Tracker Watch. This sleek and stylish wearable device helps you stay active and healthy by tracking your steps, calories burned, heart rate, and sleep patterns. With its intuitive touchscreen display and user-friendly interface, you can easily monitor your progress and set personalized goals. Stay connected with notifications for calls, messages, and social media alerts. With its water-resistant design and long battery life, our Fitness Tracker Watch is the perfect companion for your active lifestyle. Whether you're hitting the gym, going for a run, or simply staying active throughout the day, our Fitness Tracker Watch keeps you motivated and on track.",
+    "brand": "FitTech",
+    "quantity": 120,
+    "costPrice": 39.99,
+    "coverImage": "http://localhost:3000/upload/trackerwatch.jpeg",
+    "sellingPrice": 59.99,
+    "discount": 20,
+    "specifications": [
+      { "title": "Heart Rate Monitor", "value": "Yes" },
+      { "title": "Sleep Tracker", "value": "Yes" },
+      { "title": "Smartphone Notifications", "value": "Yes" }
+    ],
+    "id": "zrUSjVKOCcpVgYU"
+  },
+  {
+    "name": "Smart Home Security Camera",
+    "description": "Protect your home and loved ones with our Smart Home Security Camera. Equipped with advanced motion detection and night vision technology, this camera provides round-the-clock surveillance for peace of mind. With its 1080p HD resolution and wide-angle lens, you can capture clear and detailed footage of your home's surroundings. The two-way audio feature allows you to communicate with visitors or deter intruders from anywhere using your smartphone. Whether you're at home or away, our Smart Home Security Camera keeps you connected and in control of your home's security.",
+    "brand": "SecureGuard",
+    "quantity": 80,
+    "costPrice": 79.99,
+    "coverImage": "http://localhost:3000/upload/shsc.jpeg",
+    "sellingPrice": 99.99,
+    "discount": 10,
+    "specifications": [
+      { "title": "Resolution", "value": "1080p HD" },
+      { "title": "Night Vision", "value": "Yes" },
+      { "title": "Two-Way Audio", "value": "Yes" }
+    ],
+    "id": "eNjK8Xi51ngnHAc"
+  },
+  {
+    "name": "Electric Standing Desk Converter",
+    "description": "Transform your workspace with our Electric Standing Desk Converter. This innovative device converts any regular desk into a height-adjustable standing desk with the push of a button. Its sturdy construction and smooth lifting mechanism allow you to effortlessly transition between sitting and standing positions throughout the day. With ample space for monitors, laptops, and accessories, our Standing Desk Converter promotes better posture, reduces fatigue, and increases productivity. Improve your health and well-being with the ergonomic design and customizable settings of our Electric Standing Desk Converter.",
+    "brand": "StandUpTech",
+    "quantity": 90,
+    "costPrice": 199.99,
+    "coverImage": "http://localhost:3000/upload/esdc.jpeg",
+    "sellingPrice": 249.99,
+    "discount": 15,
+    "specifications": [
+      { "title": "Height Adjustment", "value": "Electric" },
+      { "title": "Work Surface", "value": "Spacious" },
+      { "title": "Construction", "value": "Sturdy" }
+    ],
+    "id": "0BTXL6jdiIVANcd"
+  },
+  {
+    "name": "Ultra HD Smart TV",
+    "description": "Experience immersive entertainment with our Ultra HD Smart TV. Featuring stunning 4K resolution and HDR technology, this TV delivers lifelike picture quality with vibrant colors and sharp contrast. Stream your favorite movies, shows, and games with built-in smart features and access to popular streaming services. With voice control and smart home integration, you can easily control your TV and connected devices with simple voice commands. Slim design and sleek bezels complement any living space, while multiple connectivity options ensure compatibility with your favorite devices. Upgrade your home entertainment experience with our Ultra HD Smart TV.",
+    "brand": "TechVision",
+    "quantity": 200,
+    "costPrice": 599.99,
+    "coverImage": "http://localhost:3000/upload/tv.jpeg",
+    "sellingPrice": 699.99,
+    "discount": 5,
+    "specifications": [
+      { "title": "Resolution", "value": "4K Ultra HD" },
+      { "title": "HDR", "value": "Yes" },
+      { "title": "Smart Features", "value": "Built-in" }
+    ],
+    "id": "lXl83W18cBvvUeo"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Simplify your charging routine with our Wireless Charging Pad. This sleek and compact pad offers fast and efficient wireless charging for your Qi-enabled devices. Simply place your device on the pad to start charging instantly, no cables or connectors required. With its anti-slip surface and temperature control technology, your device stays secure and cool during charging. LED indicators display the charging status, while foreign object detection ensures safety and efficiency. Whether you're at home, in the office, or on the go, our Wireless Charging Pad keeps your devices powered up and ready to go.",
+    "brand": "ChargeTech",
+    "quantity": 150,
+    "costPrice": 29.99,
+    "coverImage": "http://localhost:3000/upload/wcp.jpeg",
+    "sellingPrice": 39.99,
+    "discount": 10,
+    "specifications": [
+      { "title": "Wireless Charging", "value": "Yes" },
+      { "title": "Compatibility", "value": "Qi-enabled devices" },
+      { "title": "Safety Features", "value": "Foreign object detection" }
+    ],
+    "id": "JAknwGas528zTY1"
+  },
+  {
+    "name": "Digital Air Fryer",
+    "description": "Enjoy crispy and delicious meals with our Digital Air Fryer. This innovative kitchen appliance uses hot air circulation to fry, bake, roast, and grill your favorite foods with little to no oil, making it a healthier alternative to traditional frying methods. With its digital touchscreen interface and preset cooking programs, you can easily select the perfect cooking time and temperature for your dishes. The spacious basket holds enough food for the whole family, while the non-stick coating ensures easy cleanup. Whether you're cooking crispy french fries, juicy chicken wings, or tender vegetables, our Digital Air Fryer delivers mouthwatering results every time.",
+    "brand": "CrispMaster",
+    "quantity": 100,
+    "costPrice": 79.99,
+    "coverImage": "http://localhost:3000/upload/daf.jpeg",
+    "sellingPrice": 99.99,
+    "discount": 15,
+    "specifications": [
+      { "title": "Cooking Capacity", "value": "Large" },
+      { "title": "Cooking Functions", "value": "Fry, bake, roast, grill" },
+      { "title": "Control", "value": "Digital touchscreen" }
+    ],
+    "id": "iUaNJSfMdvhJTCy"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "Experience true wireless freedom with our Wireless Earbuds. These compact and lightweight earbuds deliver immersive sound and crystal-clear audio for music, calls, and podcasts. With Bluetooth connectivity and intuitive touch controls, you can easily play, pause, skip tracks, and answer calls with a simple tap. The ergonomic design and multiple ear tip sizes ensure a secure and comfortable fit for all-day wear. With long battery life and portable charging case, our Wireless Earbuds keep you connected and entertained wherever you go. Whether you're working out, commuting, or relaxing at home, enjoy uninterrupted audio with our Wireless Earbuds.",
+    "brand": "SoundWave",
+    "quantity": 120,
+    "costPrice": 49.99,
+    "coverImage": "http://localhost:3000/upload/wap.jpeg",
+    "sellingPrice": 69.99,
+    "discount": 20,
+    "specifications": [
+      { "title": "Wireless Connectivity", "value": "Bluetooth" },
+      { "title": "Battery Life", "value": "Long-lasting" },
+      { "title": "Touch Controls", "value": "Intuitive" }
+    ],
+    "id": "oKpS6uVqM0NXSz0"
+  },
+  {
+    "name": "Smart Wi-Fi Thermostat",
+    "description": "Take control of your home's comfort with our Smart Wi-Fi Thermostat. This intelligent thermostat allows you to remotely adjust the temperature and settings of your heating and cooling system from anywhere using your smartphone or voice commands. With advanced learning algorithms and energy-saving features, our thermostat helps you save money on your energy bills while maintaining optimal comfort. Easy installation and compatibility with most HVAC systems make it a convenient and cost-effective solution for any home. Whether you're at home or away, stay comfortable and in control with our Smart Wi-Fi Thermostat.",
+    "brand": "ClimateControl",
+    "quantity": 80,
+    "costPrice": 129.99,
+    "coverImage": "http://localhost:3000/upload/swt.jpeg",
+    "sellingPrice": 149.99,
+    "discount": 10,
+    "specifications": [
+      { "title": "Connectivity", "value": "Wi-Fi" },
+      { "title": "Compatibility", "value": "Most HVAC systems" },
+      { "title": "Energy Saving", "value": "Yes" }
+    ],
+    "id": "rEkiKvt8HzS12Th"
+  },
+  {
+    "name": "Electric Scooter",
+    "description": "Get around town with ease using our Electric Scooter. With its lightweight and foldable design, this scooter is perfect for commuting, running errands, or exploring the city. The powerful motor provides smooth acceleration and quick speed, while the long-lasting battery ensures extended ride time. With its durable construction and ergonomic design, our Electric Scooter offers comfort and convenience for riders of all ages. Whether you're a student, commuter, or urban explorer, our Electric Scooter is your ticket to convenient and eco-friendly transportation.",
+    "brand": "EcoRide",
+    "quantity": 150,
+    "costPrice": 299.99,
+    "coverImage": "http://localhost:3000/upload/esc.jpg",
+    "sellingPrice": 349.99,
+    "discount": 10,
+    "specifications": [
+      { "title": "Motor Power", "value": "250W" },
+      { "title": "Max Speed", "value": "15 mph" },
+      { "title": "Battery Range", "value": "15 miles" }
+    ],
+    "id": "IeMdckyxW1gjtNg"
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "Take your music wherever you go with our Portable Bluetooth Speaker. With its compact and lightweight design, this speaker is perfect for outdoor adventures, parties, or relaxing at home. Featuring powerful sound and deep bass, our speaker delivers immersive audio quality for your favorite music, podcasts, and more. With wireless Bluetooth connectivity and long battery life, you can stream music from your smartphone or tablet without interruption. The rugged construction and water-resistant design make it perfect for outdoor use, while the built-in microphone allows for hands-free calling. Whether you're hiking, camping, or hanging out with friends, our Portable Bluetooth Speaker ensures the party never stops.",
+    "brand": "SoundWave",
+    "quantity": 200,
+    "costPrice": 39.99,
+    "coverImage": "http://localhost:3000/upload/pbs.jpeg",
+    "sellingPrice": 49.99,
+    "discount": 20,
+    "specifications": [
+      { "title": "Bluetooth Version", "value": "5.0" },
+      { "title": "Battery Life", "value": "Up to 10 hours" },
+      { "title": "Water Resistance", "value": "IPX5" }
+    ],
+    "id": "ynouwySmo3PkZoJ"
+  },
+  {
+    "name": "Wireless Charging Power Bank",
+    "description": "Stay powered up on the go with our Wireless Charging Power Bank. This portable charger features wireless charging capabilities, allowing you to charge your Qi-enabled devices without the hassle of cables. With its high-capacity battery and fast charging technology, you can keep your smartphone, tablet, or other devices powered up throughout the day. The compact and lightweight design makes it perfect for travel, while the built-in LED indicators display the remaining battery power. Whether you're traveling, commuting, or out and about, our Wireless Charging Power Bank ensures you stay connected and powered up wherever you are.",
+    "brand": "ChargeUp",
+    "quantity": 100,
+    "costPrice": 29.99,
+    "coverImage": "http://localhost:3000/upload/pb.jpg",
+    "sellingPrice": 39.99,
+    "discount": 25,
+    "specifications": [
+      { "title": "Battery Capacity", "value": "10000mAh" },
+      { "title": "Wireless Charging", "value": "Yes" },
+      { "title": "Fast Charging", "value": "Yes" }
+    ],
+    "id": "oJcqFThjORMZCot"
+  },
+  {
+    "name": "Robot Vacuum Cleaner",
+    "description": "Keep your floors clean without lifting a finger with our Robot Vacuum Cleaner. This intelligent cleaning device navigates your home with precision, sweeping, vacuuming, and mopping up dirt, dust, and pet hair. With its advanced sensors and mapping technology, our robot vacuum adapts to your home's layout and cleans hard-to-reach areas with ease. The slim design allows it to fit under furniture and around obstacles, while the powerful suction ensures thorough cleaning on all floor types. Schedule cleaning sessions and control your robot vacuum from anywhere using your smartphone or voice commands. With our Robot Vacuum Cleaner, your floors stay clean and pristine without any effort.",
+    "brand": "SmartClean",
+    "quantity": 120,
+    "costPrice": 199.99,
+    "coverImage": "http://localhost:3000/upload/rvc.jpeg",
+    "sellingPrice": 249.99,
+    "discount": 15,
+    "specifications": [
+      { "title": "Cleaning Modes", "value": "Sweep, vacuum, mop" },
+      { "title": "Navigation", "value": "Smart mapping technology" },
+      { "title": "Suction Power", "value": "2000Pa" }
+    ],
+    "id": "65fTcl0qmLcPoIR"
+  }
+]
